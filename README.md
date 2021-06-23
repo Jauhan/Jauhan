@@ -7,13 +7,14 @@
   <a href="https://twitter.com/JauhanGG">Twitter</a> |
   <a href="https://github.com/Jauhan">Github</a>
   <br><br>
-  <img src="https://media4.giphy.com/media/QZsZKbeJrHMdno3iBb/giphy.gif"
+  <img src="https://media.tenor.com/images/da1dbf0aefc408168f096d30d36fee2f/tenor.gif"
   <br><br>
 
 #
    ```diff
-🤍 >> 15 years old, begginer.
+🤍 >> 15 years old, french begginer.
 💤 >> Learn python & sql.
+⁶₆⁷ >> Freeze Corleone Fan.
 ```
 #
   
