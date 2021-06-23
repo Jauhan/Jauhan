@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>🖤 Follow me here:</b><br>
-  <a href="discord.gg/ZyX4rz9ctY">Discord</a> |
+  <a href="https://discord.gg/ZyX4rz9ctY">Discord</a> |
   <a href="https://www.twitch.tv/joauhangg">Twitch</a> |
   <a href="https://twitter.com/JauhanGG">Twitter</a> |
   <a href="https://github.com/Jauhan">Github</a>
