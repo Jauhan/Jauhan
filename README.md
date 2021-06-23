@@ -21,7 +21,7 @@
 
 <p align="center"> 
   <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png"></code>&nbsp; |
-  <code><img height="25" src="https://image.flaticon.com/icons/png/512/603/603201.png"></code>&nbsp; 
+  <code><img height="25" src="https://img2.freepng.fr/20180802/vty/kisspng-clip-art-microsoft-azure-sql-database-microsoft-sq-skills-5b63119fd6c064.4634905815332192318796.png"></code>&nbsp; 
 </p>
 
 <h1 align="center">FRAMEWORK</h1>
