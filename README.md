@@ -14,7 +14,7 @@
    ```diff
 🤍 >> 15 years old, french begginer.
 💤 >> Learn python & sql.
-⁶₆⁷ >> Freeze Corleone Fan.
+⁶₆⁷>> Freeze Corleone Fan.
 ```
 #
   
