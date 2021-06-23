@@ -21,5 +21,13 @@
 
 <p align="center"> 
   <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png"></code>&nbsp; |
-  <code><img height="25" src="https://image.flaticon.com/icons/png/512/603/603201.png></code>&nbsp; |
+  <code><img height="25" src="https://image.flaticon.com/icons/png/512/603/603201.png"></code>&nbsp; 
 </p>
+
+h1 align="center">FRAMEWORK</h1>
+
+<p align="center"> 
+  <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"></code>&nbsp; |
+  <code><img height="25" src="https://www.sublimehq.com/images/sublime_text.png">
+    
+h1 align="center">LOVE U</h1>
