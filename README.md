@@ -7,7 +7,7 @@
   <a href="https://twitter.com/JauhanGG">Twitter</a> |
   <a href="https://github.com/Jauhan">Github</a>
   <br><br>
-  <img src="https://steamuserimages-a.akamaihd.net/ugc/785250395037113988/FB08ED7EEACA962156C8B28EC75B5E72BF5CE46F"
+  <img src="https://steamuserimages-a.akamaihd.net/ugc/785250395037113988/FB08ED7EEACA962156C8B28EC75B5E72BF5CE46F/"
   <br><br>
 
 #
