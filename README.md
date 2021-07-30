@@ -7,7 +7,7 @@
   <a href="https://twitter.com/JauhanGG">Twitter</a> |
   <a href="https://github.com/Jauhan">Github</a>
   <br><br>
-  <img src="https://images.wave.fr/images//freeze-corleone-baton-rouge-1.gif"
+  <img src="https://thumbs.gfycat.com/FineSatisfiedHatchetfish-size_restricted.gif"
   <br><br>
 
 #
