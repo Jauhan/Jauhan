@@ -13,7 +13,7 @@
 #
    ```diff
 🤍 >> 15 years old, french begginer.
-💤 >> Noway Fan
+💤 >> Dev Universe
 ⁶₆⁷>> UwU
 ```
 #
